@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "fileShare",
+    "packageName": "com.kklaudia.fileshare",
+    "packageFolder": "com/kklaudia/fileshare",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "20cad5c3099e4d3df03e3c6c03aef28097ceee5a"
+  }
+}
